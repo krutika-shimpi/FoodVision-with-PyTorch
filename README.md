@@ -1,1 +1,0 @@
-# FoodVision-with-PyTorch
